@@ -6,7 +6,7 @@ const listContainer = document.getElementById('list-container');
 function addTask() {
 
     if (inputBox.value === '') {
-        alert('You should write something ! :)');
+        alert('You should write something ! 🙂');
     }else{
         let li = document.createElement("li");
         li.innerHTML = inputBox.value;
