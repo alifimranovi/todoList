@@ -72,7 +72,7 @@ input{
     padding: 10px;
     color: var(--text-color);
 }
-#addBtn{
+button{
     border: 0;
     outline: 0;
     padding: 16px 50px;
